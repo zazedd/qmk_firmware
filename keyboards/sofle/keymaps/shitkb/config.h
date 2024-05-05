@@ -1,0 +1,11 @@
+#pragma once
+
+#define NUM_ENCODERS 2
+#define NUM_DIRECTIONS 2
+
+#define SPLIT_USB_DETECT
+#define SPLIT_OLED_ENABLE
+
+#define OLED_UPDATE_INTERVAL 10
+#define OLED_TIMEOUT 10000
+#define OLED_DISABLE_TiMEOUT
